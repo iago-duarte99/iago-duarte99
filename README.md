@@ -1,7 +1,6 @@
 # Olá! Eu sou iago duarte
 
--Hoje trabalho como analista de suporte
--Estudando Análise e Desenvolvimento de Sistemas 
+-Cursando Análise e Desenvolvimento de Sistemas. trabalho como analista de suporte, digitalização e sistema de administração pública. 
 
 ## Linguagens e Tecnologias
 
