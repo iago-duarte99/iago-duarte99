@@ -1,8 +1,8 @@
-# Olá! Eu sou iago duarte
+#  👋 Olá! Eu sou iago duarte🚀
 
 -Cursando Análise e Desenvolvimento de Sistemas. trabalho como analista de suporte, digitalização e sistema de administração pública. 
 
-## Linguagens e Tecnologias
+## Linguagens e Tecnologias🤖
 
 <img 
     aling="left"
