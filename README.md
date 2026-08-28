@@ -1,49 +1,62 @@
-#  👋 Olá! Eu sou iago duarte🚀
+# 👋 Olá! Eu sou Iago Duarte
 
--Cursando Análise e Desenvolvimento de Sistemas. trabalho como analista de suporte, digitalização e sistema de administração pública. 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Profissional com experiência em **Suporte de TI, Digitalização e Sistemas de Administração Pública**  
+🚀 Em constante evolução no desenvolvimento de software e novas tecnologias.
 
-## Linguagens e Tecnologias🤖
+---
 
-<img 
-    aling="left"
-    alt="MTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img 
-    aling="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
- <img 
-    aling="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-   <img 
-    aling="left"
-    alt="GIT"
-    title="GIT"
-    width="30px"
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+## 👨‍💻 Sobre mim
 
-   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-     src="https://github-readme-stats.vercel.app/api?username=iago-duarte99&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"
-       />
-       
-   <img   
-       aling="left"
-       alt="github stats"
-       height="200"
-       style="padding-right: 10px;"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-duarte99&theme=transparent&layout-compact&custom_title=tecnologias&langs_count=9"/>
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, buscando desenvolver cada vez mais minhas habilidades em programação e tecnologia.
+
+No ambiente profissional, atuo com **suporte técnico, digitalização de documentos e sistemas voltados à administração pública**, adquirindo experiência prática na utilização e suporte de sistemas.
+
+Tenho interesse em aprofundar meus conhecimentos em **desenvolvimento web, back-end, bancos de dados e desenvolvimento de sistemas**, construindo projetos que transformem conhecimento acadêmico em soluções reais.
+
+---
+
+## 🚀 Linguagens e Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+---
+
+## 📚 Atualmente estudando
+
+- 🌐 Desenvolvimento Web
+- 🟨 JavaScript
+- ⚙️ Back-end e APIs
+- 🗄️ Banco de Dados
+- 🔀 Git e GitHub
+- 🧠 Lógica de Programação
+- 🏗️ Arquitetura de Software
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<img
+  height="180"
+  src="https://streak-stats.demolab.com?user=iago-duarte99&theme=transparent&locale=pt_BR"
+  alt="Sequência de contribuições"
+/>
+
+---
+
+## 🎯 Objetivos
+
+Meu objetivo é continuar evoluindo como profissional de tecnologia, aprofundando meus conhecimentos em desenvolvimento de software e construindo projetos cada vez mais completos.
+
+Busco transformar problemas reais em **soluções simples, eficientes e bem estruturadas através da tecnologia**.
+
+---
+
+### 🚀 Sempre aprendendo, desenvolvendo e evoluindo.
+
+⭐ Confira meus repositórios e acompanhe minha evolução no GitHub!
