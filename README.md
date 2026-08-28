@@ -49,6 +49,34 @@ Tenho interesse em aprofundar meus conhecimentos em **desenvolvimento web, back-
 
 ---
 
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/iago-duarte99/iago-duarte99/output/github-contribution-grid-snake-dark.svg"
+  />
+  
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/iago-duarte99/iago-duarte99/output/github-contribution-grid-snake.svg"
+  />
+  
+  <img
+    alt="Cobrinha devorando minhas contribuições"
+    src="https://raw.githubusercontent.com/iago-duarte99/iago-duarte99/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
+
+</div>
+
+---
+
+---
+
 ## 🎯 Objetivos
 
 Meu objetivo é continuar evoluindo como profissional de tecnologia, aprofundando meus conhecimentos em desenvolvimento de software e construindo projetos cada vez mais completos.
