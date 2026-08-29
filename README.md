@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Iago Duarte
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Profissional com experiência em **Suporte de TI, Digitalização e Sistemas de Administração Pública**  
+💻 Experiência em **Suporte, Gestão Administrativa, SST e Tecnologia**  
 🚀 Em constante evolução no desenvolvimento de software e novas tecnologias.
 
 ---
